@@ -132,11 +132,6 @@ section {
     margin: 0 auto;
 }
 
-.steps {
-    text-align: center;
-    background: #fce138;
-}
-
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -155,6 +150,11 @@ section {
 }
 
 /*Steps Style Start*/
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+
 .steps div {
     margin-bottom: 80px;
 }
@@ -177,4 +177,30 @@ section {
 
 .steps span {
     font-size: 38px;
+}
+/*Steps Style End*/
+
+/* Trainers Style Start*/
+
+.trainers {
+    text-align: center;
+    overflow: auto;
+}
+
+.trainer {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    color: #fce138;
+}
+
+.trainer img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
 }
