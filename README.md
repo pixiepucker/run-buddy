@@ -12,3 +12,5 @@ https://pixiepucker.github.io/run-buddy
 
 ## Contribution
 Made with 🖤 by Autumn YC.
+
+### ©️2019 Run Buddy, Inc.
