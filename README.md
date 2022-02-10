@@ -1,7 +1,7 @@
 # Run Buddy Inc.
 
 ## Purpose
-A webstie that offers fitness training services.
+A website that offers fitness training services.
 
 ## Built With
 * HTML
@@ -13,4 +13,4 @@ https://pixiepucker.github.io/run-buddy
 ## Contribution
 Made with 🖤 by Autumn YC.
 
-### 2019 Run Buddy, Inc.
+### ©️2019 Run Buddy, Inc.
